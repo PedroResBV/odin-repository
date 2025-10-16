@@ -1,0 +1,42 @@
+* {
+    margin: 0 auto;
+    padding: 8px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+div {
+    border: 1px solid darkblue;
+    margin: 0 auto;
+    background-color: #f6d7b0;
+    width: 1000px;
+}
+
+p {
+    width: 500px;
+    border: 1px solid #213970;
+    border-radius: 15px;
+    background-color: white ;
+    color: #213970;
+    margin-bottom: 3em;
+    margin-top: 1.5em;
+}
+
+a {
+    text-decoration: none;
+    margin-bottom: 1em;
+    display: inline-block;
+   
+}
+
+img {
+    width: 500px;
+    height: auto;
+    border: 1px solid black;
+    padding: 0px;
+}
+
+h1 {
+    margin-top: 0.75em;
+    margin-bottom: 0.5em;
+}
